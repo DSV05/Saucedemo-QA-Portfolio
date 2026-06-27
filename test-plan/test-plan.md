@@ -104,32 +104,7 @@ This test plan describes the testing strategy, scope, objectives, and approach f
 
 ---
 
-## 8. Risks and Mitigation
-
-| Risk | Mitigation |
-|---|---|
-| SauceDemo site goes down | Test locally or use screenshots as evidence |
-| Test data not available | Use the pre-defined test accounts provided |
-| Scope creep | Stick to in-scope modules defined above |
-
----
-
-## 9. Roles and Responsibilities
-
 | Role | Name |
 |---|---|
 | Test Engineer | Siddivinayak Doppalapudi |
 | Application Under Test | SauceDemo (Sauce Labs) |
-
----
-
-## 10. Schedule
-
-| Phase | Activity | Duration |
-|---|---|---|
-| Phase 1 | Test Planning | 1 day |
-| Phase 2 | Test Case Design | 2 days |
-| Phase 3 | Test Execution | 2 days |
-| Phase 4 | Bug Reporting | 1 day |
-| Phase 5 | API Testing | 1 day |
-| Phase 6 | Summary & Documentation | 1 day |
