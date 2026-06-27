@@ -229,10 +229,3 @@ https://reqres.in/api
 
 ---
 
-## How to Import Postman Collection
-
-1. Open Postman
-2. Click **Import** (top left)
-3. Select the file `postman-collection.json` from this folder
-4. All 10 requests will be imported under the collection **"ReqRes API Tests"**
-5. Click **Run Collection** to execute all tests at once
