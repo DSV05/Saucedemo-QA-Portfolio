@@ -12,26 +12,26 @@ This project demonstrates end-to-end QA skills including test planning, test cas
 saucedemo-qa-portfolio/
 │
 ├── test-plan/
-│   └── test-plan.md               # Overall testing strategy and scope
+│   └── test-plan.md             
 │
 ├── manual-test-cases/
-│   ├── TC-login.md                # Login module test cases
-│   ├── TC-inventory.md            # Product listing & sorting test cases
-│   ├── TC-cart.md                 # Cart functionality test cases
-│   └── TC-checkout.md             # Checkout flow test cases
+│   ├── TC-login.md              
+│   ├── TC-inventory.md            
+│   ├── TC-cart.md                
+│   └── TC-checkout.md            
 │
 ├── bug-reports/
-│   ├── BUG-001.md                 # Locked out user shows no clear error
-│   ├── BUG-002.md                 # Sort order resets on page refresh
-│   ├── BUG-003.md                 # Cart badge count not updating
-│   ├── BUG-004.md                 # Checkout allows empty first name
-│   └── BUG-005.md                 # Product image broken for glitch user
+│   ├── BUG-001.md                
+│   ├── BUG-002.md                 
+│   ├── BUG-003.md               
+│   ├── BUG-004.md                
+│   └── BUG-005.md                
 │
 ├── api-testing/
-│   ├── reqres-api-tests.md        # Manual API test cases (ReqRes API)
-│   └── postman-collection.json    # Importable Postman collection
+│   ├── reqres-api-tests.md        
+│   └── postman-collection.json   
 │
-└── README.md                      # This file
+└── README.md                      
 ```
 
 ---
