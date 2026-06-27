@@ -14,7 +14,7 @@
 | **Title** | Locked out user receives unhelpful error message with no guidance |
 | **Module** | Login |
 | **Reported By** | Siddivinayak Doppalapudi |
-| **Date** | June 2026 |
+| **Date** | 2026 |
 | **Severity** | Medium |
 | **Priority** | Medium |
 | **Status** | Open |
