@@ -1,9 +1,7 @@
 # Test Plan — SauceDemo Web Application
 
 **Project:** SauceDemo E-Commerce Web App  
-**Version:** 1.0  
-**Prepared By:** Siddivinayak Doppalapudi  
-**Date:** June 2026  
+**Version:** 1.0   
 
 ---
 
