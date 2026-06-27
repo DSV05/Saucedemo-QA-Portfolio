@@ -228,4 +228,8 @@ https://reqres.in/api
 | 500 | Internal Server Error | Server-side issue |
 
 ---
+**Attachments:** *<img width="1911" height="924" alt="image" src="https://github.com/user-attachments/assets/3501180e-21e6-4085-9d02-aaf6b7285e5e" />*
+
+**Attachments:** *<img width="1892" height="497" alt="image" src="https://github.com/user-attachments/assets/04482708-e8aa-4296-b964-750cc728ae38" />*
+
 
