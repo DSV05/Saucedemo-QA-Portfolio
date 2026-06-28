@@ -36,7 +36,8 @@ A clear, user-friendly message such as: *"Your account has been locked. Please c
 **Actual Result:**  
 Message displayed: *"Sorry, this user has been locked out."* — No further guidance or contact information provided.
 
-**Attachments:** *(Screenshot to be added)*
+**Attachments:** *<img width="1072" height="476" alt="image" src="https://github.com/user-attachments/assets/ada0243f-8611-48af-9c89-ad9596900080" />
+*
 
 ---
 
@@ -70,7 +71,8 @@ Sort order is either maintained after refresh, or user is notified that sort was
 **Actual Result:**  
 Sort silently resets to default with no feedback to the user.
 
-**Attachments:** *(Screenshot to be added)*
+**Attachments:** *<img width="1885" height="910" alt="image" src="https://github.com/user-attachments/assets/aec9b2e0-29d5-4025-92b1-82ce77fded77" />
+*
 
 ---
 
@@ -105,7 +107,8 @@ Cart badge should instantly update to reflect the new item count (1).
 **Actual Result:**  
 Badge briefly shows "2" before updating to "1".
 
-**Attachments:** *(Screenshot/screen recording to be added)*
+**Attachments:** *<img width="1893" height="434" alt="image" src="https://github.com/user-attachments/assets/aac59824-8c3f-493f-8074-ea22518d6ead" />
+*
 
 ---
 
@@ -145,7 +148,8 @@ Form proceeds to Checkout Overview with no error.
 **Severity Justification:**  
 This is a High severity bug because it allows incomplete customer data to pass through a business-critical checkout flow, which could cause issues with order fulfillment.
 
-**Attachments:** *(Screenshot to be added)*
+**Attachments:** *<img width="1832" height="893" alt="image" src="https://github.com/user-attachments/assets/ed938fc5-301c-4a0d-8972-9f6ebdd0bd28" />
+*
 
 ---
 
@@ -181,4 +185,5 @@ One or more product images are broken or mismatched.
 **Severity Justification:**  
 High severity because broken/incorrect product images directly impact the ability of a user to make a purchase decision — a core business function.
 
-**Attachments:** *(Screenshot to be added)*
+**Attachments:** *<img width="1686" height="791" alt="image" src="https://github.com/user-attachments/assets/c6111af5-55f2-444c-9667-2505ac9543e8" />
+*
